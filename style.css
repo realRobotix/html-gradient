@@ -9,13 +9,9 @@
 }
 
 .wrapper {
-    height: 25%;
-    width: 25%;
-    left: 0;
-    right: 0;
-    top: 0;
-    bottom: 0;
-    margin: 10%;
+    height: 100%;
+    width: 49%;
+    margin-left: 0;
     position: absolute;
     background: linear-gradient(124deg, #ffee02, #fcc101, #ff8800, #ff5500, #e32423, #de008c, #9618de, #4f21bd, #0251ea, #0397b8, #008e5c, #8dbb27);
     background-size: 1800% 1800%;
