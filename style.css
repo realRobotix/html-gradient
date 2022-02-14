@@ -1,6 +1,7 @@
 .gradient {
     background: linear-gradient(to bottom, #ffee02, #fcc101, #ff8800, #ff5500, #e32423, #de008c, #9618de, #4f21bd, #0251ea, #0397b8, #008e5c, #8dbb27);
     margin: 10%;
+    size: 25%;
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
