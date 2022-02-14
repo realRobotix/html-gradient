@@ -1,5 +1,8 @@
+html,
 body{
     background: linear-gradient(to bottom, #FF0000, #00FF00, #0000FF );
+    height: 100%;
+    margin: 0;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-attachment: fixed;
 }
